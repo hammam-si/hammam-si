@@ -2,7 +2,7 @@
   <img src="https://www.gitskins.com/api/section/hero?username=hammam-si&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F309113957%3Fu%3D19b1805d6a60841e525757f21b3d10619d209efd%26v%3D4" alt="hammam-si hero visual" />
 </p>
 
-**HAMMAM** · Information Systems Undergraduate @University of Lampung
+**HAMMAM** · Information Systems Undergraduate @unila
 
 > Focusing on **Linux systems**, **C++ programming**, and **cybersecurity fundamentals**. Based in Indonesia.
 
